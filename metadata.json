@@ -1,0 +1,6 @@
+{
+  "name": "Bonsai NPU",
+  "description": "Bonsai-2-27B NPU Mobile Inference Runtime & Snapdragon 8 Elite Workstation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
